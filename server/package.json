@@ -1,0 +1,7 @@
+{
+  "name": "workers-proxy-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "SunYufei <sunyufei963@gmail.com>",
+  "license": "MIT"
+}

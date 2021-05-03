@@ -1,7 +1,6 @@
-<div style="text-align: center;">
-    <h2>Workers-Proxy</h2>
-    通过本地代理将一些请求代理到新的地址
-</div>
+## Workers Proxy
+
+通过本地代理将一些请求代理到新的地址
 
 ### 功能
 
@@ -14,8 +13,13 @@
 本项目参考如下开源项目
 
 - [docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar)
+- [XX-Net/XX-Net](https://github.com/docmirror/dev-sidecar)
 
 本项目加速资源由如下组织提供
 
-- [fastgit](https://fastgit.org/)
-- [cloudflare](https://cloudflare.com/)
+- alidns.com
+- cloudflare.com
+- fastgit.org
+- loli.net
+- npm.taobao.org
+- recaptcha.net
